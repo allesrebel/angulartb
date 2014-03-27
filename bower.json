@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.0.3",
+    "jquery": "~1.11.0",
+    "angular": "~1.2.15",
+    "angular-ui-router": "~0.2.10"
+  },
+  "devDependencies": {}
+}
