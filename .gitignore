@@ -8,3 +8,5 @@ test/bower_components
 .settings
 .project
 .tern-project
+.editorconfig
+META-INF
